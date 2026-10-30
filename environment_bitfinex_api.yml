@@ -1,4 +1,4 @@
-name: bitfinex_api2
+name: bitfinex_api
 channels:
   - anaconda
   - conda-forge
